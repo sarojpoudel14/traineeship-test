@@ -1,4 +1,4 @@
-# traineeship-test
+# Traineeship Test
 
 Task: Build a Task Manager App using store management
 
