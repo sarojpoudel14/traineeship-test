@@ -1,6 +1,6 @@
 # Traineeship Test
 
-Task: Build a Task Manager App using store management
+Task: Build a Task Manager App using VueJS and Store management
 
 Pages Required:
 1. Home Page - Display welcome message and a summary of task i.e. task tasks, completed tasks.
@@ -9,7 +9,7 @@ Pages Required:
 
 Requirement:
 - State Management(Pinia):
-  Create separate stores for tasks and settings to store in locally in store.
+  Create separate stores for tasks and settings to store it locally in store (no backend).
 - Computed and Watcher:
   Use computed to display derived data i.e. total tasks, completed tasks. etc.
   Use 
@@ -31,3 +31,5 @@ Evaluation Criteria
 Plus points
 - Proper documentation
 - Visually appealing UI/UX
+
+Please contact us if you have any confusion.
