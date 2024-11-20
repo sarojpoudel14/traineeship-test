@@ -32,4 +32,4 @@ Plus points
 - Proper documentation
 - Visually appealing UI/UX
 
-Please contact us if you have any confusion.
+Please contact us if you have any question.
